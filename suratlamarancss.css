@@ -1,0 +1,68 @@
+/*source:
+- background: https://www.bing.com/images/search?view=detailV2&id=D27FBEE7B22E2E1C14E6FA00C9B2799A78760080&thid=OIP.5N_DNyhxOeG1-U7Zc7rCbgHaLH&exph=975&expw=650&q=Background+for+CV&selectedindex=12&ajaxhist=0&vt=0&eim=1,6
+*/
+
+*{
+    margin: 0;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url(backgroundsurat.jpg);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background: #585c68;
+    font-size: 14px;
+    line-height: 22px;    
+    color: #555555;
+}
+
+.resume{
+    width: 800px;
+    height: auto;
+    display: flex;
+    margin-left: 3vw;
+    margin-top: 5vw;
+    padding: 20vw;
+}
+
+.title{
+    margin-bottom: 20px;
+}
+
+.isi1{
+    padding: 25px 0;
+    margin-top: 50px;
+}
+
+
+.datadiri{
+    margin-left: 50px;
+}
+
+.isi4{
+    margin-top: 20px;
+}
+
+.bahanpertimbangan{
+    margin-top: 20px;
+}
+
+.isi4 ol li{
+    margin-left: 18px;
+}
+
+.isi5{
+    margin-top: 20px;
+}
+
+.isi6{
+    margin-top: 20px;
+    justify-content: center;
+}
+
+.ttd{
+    margin-top: 50px;
+}
